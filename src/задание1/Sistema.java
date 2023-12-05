@@ -1,3 +1,5 @@
+package задание1;
+
 import java.util.Objects;
 
 public class Sistema {
